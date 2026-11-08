@@ -1,0 +1,24 @@
+{
+  "baseline_date": "2026-11-08",
+  "note": "Initial deduplication baseline for the daily classifieds search. These were discovered on the first run and must not be presented as newly published on later runs. Availability was not verified on the original listing pages.",
+  "seen": [
+    {
+      "source": "Segodnyazavtra",
+      "title": "Стиральная машина бу. Работает через раз. Возможно требуется замена насоса",
+      "published_at": "2026-11-01T14:11",
+      "location": "ЖК Рассветный, Екатеринбург",
+      "price": "Бесплатно",
+      "url": "https://segodnyazavtra.ru/ekaterinburg/ekaterinburg-obyavleniya/stiralnaya-mashina-bu-rabotaet-cherez-raz-vozmozhno-trebuetsya-zamena-na-521469/",
+      "status": "unverified_candidate"
+    },
+    {
+      "source": "tgden aggregator / public Telegram chats",
+      "title": "Отдам бесплатно комплект: стиральная машина Samsung и микроволновка LG, самовывоз",
+      "published_at": "2026-11-02",
+      "location": "Екатеринбург",
+      "price": "Цена по запросу; заявлено бесплатно",
+      "url": "https://tgden.com/ru/market/d3e8d062-dd10-4ecd-8791-4e355c2da5bc",
+      "status": "unverified_candidate"
+    }
+  ]
+}
