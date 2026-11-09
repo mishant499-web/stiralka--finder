@@ -20,5 +20,28 @@
       "url": "https://tgden.com/ru/market/d3e8d062-dd10-4ecd-8791-4e355c2da5bc",
       "status": "unverified_candidate"
     }
+  ],
+  "last_checked_at": "2026-11-09T14:53:50+05:00",
+  "last_run_summary": {
+    "new_confirmed_listings": 0,
+    "sources_checked": [
+      "Segodnyazavtra: opened listing pages; only matching machine remains dated 2026-11-01",
+      "Barahla.NET: opened Yekaterinburg washing-machine category; no new low-price or defective match confirmed",
+      "Youla: relevant Candy listing dated 2026-07-31, stale",
+      "Festima: surfaced a Hotpoint parts listing for 5000 RUB with only street-level location and no accessible original source; excluded as unverified and not demonstrably new",
+      "Avito: no accessible indexed original listing could be verified during this run"
+    ],
+    "result": "No new confirmed matching listings"
+  },
+  "excluded_candidates": [
+    {
+      "source": "Festima aggregator",
+      "title": "Стиральная машина HotPoint на запчасти",
+      "price": "5000 RUB",
+      "location": "ул. Сакко и Ванцетти (city not reliably established)",
+      "date_seen_in_search": "relative dates varied from 5 to 10 days ago; not reliable",
+      "url": "https://festima.ru/docs/483032921/allrussia/stiralnaia-mashina-hotpoint-ariston",
+      "reason_excluded": "The Festima page is an aggregator page, the original listing could not be opened, city and publication date are not reliably confirmed; not eligible as a new verified listing."
+    }
   ]
 }
