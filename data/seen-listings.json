@@ -21,17 +21,19 @@
       "status": "unverified_candidate"
     }
   ],
-  "last_checked_at": "2026-11-09T14:53:50+05:00",
+  "last_checked_at": "2026-11-12T14:55:13+05:00",
   "last_run_summary": {
     "new_confirmed_listings": 0,
+    "checked_at": "2026-11-12T14:55:13+05:00",
     "sources_checked": [
-      "Segodnyazavtra: opened listing pages; only matching machine remains dated 2026-11-01",
-      "Barahla.NET: opened Yekaterinburg washing-machine category; no new low-price or defective match confirmed",
-      "Youla: relevant Candy listing dated 2026-07-31, stale",
-      "Festima: surfaced a Hotpoint parts listing for 5000 RUB with only street-level location and no accessible original source; excluded as unverified and not demonstrably new",
-      "Avito: no accessible indexed original listing could be verified during this run"
+      "Avito: direct Yekaterinburg search/category URLs could not be opened; no original Avito listings verified.",
+      "Segodnyazavtra: opened the Yekaterinburg feed page; the only washing-machine match remains dated 2026-11-01 and is an automatically collected VK post, not a new original listing.",
+      "tgden public Telegram marketplace: opened the Yekaterinburg Samsung + LG free bundle card; confirmed its date is 2026-11-02, already present in the deduplication baseline. No newer Yekaterinburg washing-machine offer appeared in the accessible appliance feed.",
+      "Barahla.NET: inspected the Yekaterinburg washing-machine category and search-indexed listings; accessible results were ordinary working/new machines or older posts. Some listing links routed to the Moscow section, so no defective/cheap Yekaterinburg candidate could be verified.",
+      "Youla: surfaced the Candy listing for 500 RUB dated 2026-07-31 and an already sold free Samsung listing; both are old and excluded.",
+      "БесплатныеОбъявления.рф: surfaced old Ekaterinburg Indesit listings dated 2024 and unrelated free listings from other cities; excluded."
     ],
-    "result": "No new confirmed matching listings"
+    "result": "No new confirmed matching listings within Yekaterinburg or the 10 km radius."
   },
   "excluded_candidates": [
     {
